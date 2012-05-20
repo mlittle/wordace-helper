@@ -1,14 +1,16 @@
-## Word Ace Helpper
+## Word Ace Helper
 
 .NET application that calculates possible Word Ace hands and their values.
+
 
 ### What is Word Ace?
 
 Texas Hold'Em __+__ Words With Friends (aka Scrabble) __=__ Word Ace
 
-Game is part of the suite of casino games that are included with "Card Ace: Casino" on iPhone/iPad.
+Game is part of the suite of casino games that are included with "Card Ace: Casino" on [iPhone](http://itunes.apple.com/us/app/card-ace-casino/id398692284?mt=8)/[iPad](http://itunes.apple.com/us/app/card-ace-casino-hd/id408468471?mt=8).
 
-iTunes: [iPhone](http://itunes.apple.com/us/app/card-ace-casino/id398692284?mt=8) [iPad](http://itunes.apple.com/us/app/card-ace-casino-hd/id408468471?mt=8)
+### Screens
+![](http://i.imgur.com/vrpYV.png)![](http://i.imgur.com/ZM62r.jpg)
 
 ### Why?
 
