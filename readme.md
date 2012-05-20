@@ -10,7 +10,6 @@ Game is part of the suite of casino games that are included with "Card Ace: Casi
 
 iPhone
 http://itunes.apple.com/us/app/card-ace-casino/id398692284?mt=8
-
 iPad
 http://itunes.apple.com/us/app/card-ace-casino-hd/id408468471?mt=8
 
@@ -21,7 +20,7 @@ CIC of course! ;)
 I realize there are already 'helpers' out there for word ace.
 Example: http://www.anagrammer.com/word-ace/ - determines your possible hand and hands that could beat you.
 
-But knowing the possible hands is only part of the game.  The other part is betting strategy.  Calculating hand odds would aid with betting.  Not sure at this point what will be feasible, but at a minimum it could chance of hitting the better word combinations.
+But knowing the possible hands is only part of the game.  The other part is betting strategy.  Calculating hand odds would aid with betting.  Not sure at this point what will be feasible, but at a minimum it could determine your 'outs' which in turn determine best possible hands.
 
 ### Notes
 
