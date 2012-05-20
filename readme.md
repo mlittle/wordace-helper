@@ -9,8 +9,14 @@ Texas Hold'Em __+__ Words With Friends (aka Scrabble) __=__ Word Ace
 
 Game is part of the suite of casino games that are included with "Card Ace: Casino" on [iPhone](http://itunes.apple.com/us/app/card-ace-casino/id398692284?mt=8)/[iPad](http://itunes.apple.com/us/app/card-ace-casino-hd/id408468471?mt=8).
 
-### Screens
-![](http://i.imgur.com/vrpYV.png)![](http://i.imgur.com/ZM62r.jpg)
+### Screenhots
+Example of a hand in the actual game:
+
+![Word Ace](http://i.imgur.com/ZM62r.jpg)
+
+Word Ace Helper doing its thing:
+
+![Word Ace Helper](http://i.imgur.com/vrpYV.png)
 
 ### Why?
 
